@@ -1,5 +1,3 @@
-
-
 int romanToInt(char * s){
     int res = 0; /* Initializing a variable to store the result */
 
