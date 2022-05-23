@@ -3,7 +3,7 @@
 int romanToInt(char * s){
     int res = 0; /* Initializing a variable to store the result */
 
-    for (int i = 0; s[i] != 0; i++) /* iterating through the string */
+    for (char i = 0; s[i] != 0; i++) /* iterating through the string */
     {
 
         /*---------------------- If the character is "I" ---------------------------*/
