@@ -28,3 +28,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/NightBaRron1412/LeetCode/tree/master/0853-most-profit-assigning-work) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/NightBaRron1412/LeetCode/tree/master/0476-number-complement) |
+<!---LeetCode Topics End-->
