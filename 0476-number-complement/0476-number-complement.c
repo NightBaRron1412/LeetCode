@@ -6,7 +6,6 @@ int findComplement(int num) {
         op = op << 1;
         op = op + 0b1;
     }
-    printf("%b     %b", num, op);
     return ~num & op;
 }
 
