@@ -34,4 +34,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/NightBaRron1412/LeetCode/tree/master/0476-number-complement) |
+## Math
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## String
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
