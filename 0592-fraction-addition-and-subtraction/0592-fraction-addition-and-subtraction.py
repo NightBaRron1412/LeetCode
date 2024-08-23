@@ -43,8 +43,6 @@ class Solution:
             numerator = int(numerator)
         cd = gcd(numerator, denlcm)
 
-        print(numlist, denlist, denlcm, numerator)
-
         return f"{numerator // cd}/{denlcm // cd}"
 
         
