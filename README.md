@@ -58,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2562-count-ways-to-build-good-strings](https://github.com/NightBaRron1412/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
