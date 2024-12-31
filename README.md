@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1025-minimum-cost-for-tickets](https://github.com/NightBaRron1412/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,5 +64,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/NightBaRron1412/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [2562-count-ways-to-build-good-strings](https://github.com/NightBaRron1412/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
