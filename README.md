@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 | [1025-minimum-cost-for-tickets](https://github.com/NightBaRron1412/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 ## Two Pointers
 |  |
@@ -71,4 +72,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NightBaRron1412/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
