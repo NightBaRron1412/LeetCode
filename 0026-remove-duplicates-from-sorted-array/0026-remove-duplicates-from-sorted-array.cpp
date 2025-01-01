@@ -1,8 +1,15 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        auto it = unique(nums.begin(), nums.end());
+        unordered_map<int, int> hist;
+        int index {0};
+        for (int i = 0; i < nums.size(); i++){
+            if(hist.find(nums[i]) == hist.end()){
+                nums[index++] = nums[i];
+                hist[nums[i]] = 1;
 
-        return it - nums.begin();
+            }
+        }
+        return index;
     }
 };
