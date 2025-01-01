@@ -4,11 +4,11 @@ public:
         int candidate {nums.at(0)};
         int count {1};
 
-        for (int num : nums){
-            num == candidate ? count++ : count--;
+        for (size_t i = 1; i < nums.size(); ++i){
+            nums.at(i) == candidate ? count++ : count--;
             if (count == 0)
              {
-                candidate = num;
+                candidate = nums.at(i);
                 count = 1;
             }
         }
