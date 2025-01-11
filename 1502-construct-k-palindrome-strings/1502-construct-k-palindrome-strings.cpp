@@ -1,14 +1,15 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
-        unordered_map<char, int> freq;
+        int freq[26] = {0};
+        
         for (char c : s) {
-            freq[c]++;
+            freq[c - 'a']++;
         }
 
         int odd_count = 0;
-        for (auto& entry : freq) {
-            if (entry.second % 2 != 0) {
+        for (int count : freq) {
+            if (count % 2 != 0) {
                 odd_count++;
             }
         }
