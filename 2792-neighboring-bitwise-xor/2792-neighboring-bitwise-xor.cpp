@@ -1,10 +1,13 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
-        uint sum {0};
-        sum = accumulate(derived.begin(), derived.end(), 0);
-        __builtin_popcount(sum);
+        uint xor_sum {0};
+        size_t n {derived.size()};
+        for (size_t i = 0; i < n; i++)
+        {
+            xor_sum ^= derived[i];
+        }
 
-        return (sum % 2 == 0);
+        return !xor_sum;
     }
 };
