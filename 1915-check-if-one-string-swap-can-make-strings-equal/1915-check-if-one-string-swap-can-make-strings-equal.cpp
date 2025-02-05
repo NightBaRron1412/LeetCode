@@ -5,8 +5,8 @@ public:
             return true;
         }
         size_t n {s1.size()};
-        int s1FM[26] {0};
-        int s2FM[26] {0};
+        std::vector <int> s1FM (26, 0);
+        std::vector <int> s2FM (26, 0);
         int count {0};
 
         for (size_t i = 0; i < n; i++)
