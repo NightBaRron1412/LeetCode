@@ -4,8 +4,7 @@ public:
         string res;
         size_t n = nums.size();
         for (int i = 0; i < n; i++) {
-            char c = nums[i][i];
-            if (c == '0')
+            if (nums[i][i] == '0')
             {
                 res += '1';
             }
