@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NightBaRron1412/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/NightBaRron1412/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NightBaRron1412/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NightBaRron1412/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NightBaRron1412/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NightBaRron1412/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NightBaRron1412/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/NightBaRron1412/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NightBaRron1412/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NightBaRron1412/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NightBaRron1412/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NightBaRron1412/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/NightBaRron1412/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NightBaRron1412/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NightBaRron1412/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/NightBaRron1412/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -294,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/NightBaRron1412/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NightBaRron1412/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -303,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/NightBaRron1412/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/NightBaRron1412/LeetCode/tree/master/2145-grid-game) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NightBaRron1412/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
@@ -328,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/NightBaRron1412/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/NightBaRron1412/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NightBaRron1412/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/NightBaRron1412/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NightBaRron1412/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
