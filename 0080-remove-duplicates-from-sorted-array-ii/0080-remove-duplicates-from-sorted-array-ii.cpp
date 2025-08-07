@@ -11,7 +11,7 @@ public:
             return n; // If size is 2 or less, all elements are valid
          }
 
-        // Iterate through the array starting from index 0
+        // Iterate through the array starting from index 2
         for (int p2 = 2; p2 < n; p2++) {
             // Check if current element is different from the element two positions before p1.
             // This ensures no more than two duplicates are allowed.
