@@ -7,6 +7,7 @@ public:
 
         while (p2 >= 0)
         {
+            // compare the the numbers to makre sure which one is bigger (first condition to make sure nums1 wasn't empty)
             if (p1 >= 0 && nums1[p1] > nums2[p2])
             {
                 nums1[i] = nums1[p1--];
