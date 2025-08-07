@@ -1,21 +1,20 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = m - 1;
-        int j = n - 1;
-        int k = m + n - 1;
+        int p1 = m - 1; // points to last element in  nums1
+        int p2 = n - 1; // points to last element in nums2
+        int i = m + n - 1; // iterator to iterate through nums1
 
-        while(i >= 0 && j >= 0){
-            if (nums1.at(i) > nums2.at(j)){
-                nums1.at(k--) = nums1.at(i--);
+        while (p2 >= 0)
+        {
+            if (p1 >= 0 && nums1[p1] > nums2[p2])
+            {
+                nums1[i] = nums1[p1--];
+            } else {
+                nums1[i] = nums2[p2--];
             }
-            else{
-                nums1.at(k--) = nums2.at(j--);
-            }
-        }
 
-        while (j >=0 ){
-            nums1.at(k--) = nums2.at(j--);
+            i--; // move iterator to next pos
         }
     }
 };
