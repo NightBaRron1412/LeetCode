@@ -1,17 +1,28 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int candidate {nums.at(0)};
-        int count {1};
+        // Boyer-Moore Majority Voting Algorithm
+        int majority_num = nums[0];
+        int count = 1;
+        size_t n = nums.size();
 
-        for (size_t i = 1; i < nums.size(); ++i){
-            nums.at(i) == candidate ? count++ : count--;
-            if (count == 0)
-             {
-                candidate = nums.at(i);
-                count = 1;
+        for (int i = 1; i < n; i++)
+        {
+            if (nums[i] == majority_num)
+            {
+                count++;
             }
+            else {
+                count--;
+                if (count == 0)
+                {
+                    majority_num = nums[i];
+                    count = 1;
+                }
+            }
+            
         }
-        return candidate;
+
+        return majority_num;
     }
 };
