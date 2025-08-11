@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/NightBaRron1412/LeetCode/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/NightBaRron1412/LeetCode/tree/master/0952-word-subsets) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/NightBaRron1412/LeetCode/tree/master/0274-h-index) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NightBaRron1412/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NightBaRron1412/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -404,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/NightBaRron1412/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NightBaRron1412/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
