@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NightBaRron1412/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NightBaRron1412/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NightBaRron1412/LeetCode/tree/master/0013-roman-to-integer) |
 | [0564-find-the-closest-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0952-word-subsets](https://github.com/NightBaRron1412/LeetCode/tree/master/0952-word-subsets) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NightBaRron1412/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NightBaRron1412/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
