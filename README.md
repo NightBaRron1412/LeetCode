@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/NightBaRron1412/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NightBaRron1412/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0952-word-subsets](https://github.com/NightBaRron1412/LeetCode/tree/master/0952-word-subsets) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NightBaRron1412/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NightBaRron1412/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/NightBaRron1412/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NightBaRron1412/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/NightBaRron1412/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NightBaRron1412/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NightBaRron1412/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/NightBaRron1412/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/NightBaRron1412/LeetCode/tree/master/1170-shortest-common-supersequence) |
