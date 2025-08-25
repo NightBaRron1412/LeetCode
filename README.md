@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/NightBaRron1412/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NightBaRron1412/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NightBaRron1412/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NightBaRron1412/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NightBaRron1412/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NightBaRron1412/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NightBaRron1412/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NightBaRron1412/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NightBaRron1412/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/NightBaRron1412/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NightBaRron1412/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Queue
 |  |
