@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/NightBaRron1412/LeetCode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NightBaRron1412/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/NightBaRron1412/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/NightBaRron1412/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NightBaRron1412/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NightBaRron1412/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
