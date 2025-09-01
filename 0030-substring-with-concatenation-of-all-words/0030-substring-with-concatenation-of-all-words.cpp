@@ -6,7 +6,6 @@ public:
         int win_step = words[0].size(); // length of each word (all words have equal length)
         int n = s.size();               // length of the input string
         int m = words.size();           // number of words
-        int totalLen = win_step * m;    // total length of a valid concatenation
 
         // Map to count how many times each word is needed
         unordered_map<string,int> need;
