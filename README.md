@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/NightBaRron1412/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NightBaRron1412/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NightBaRron1412/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NightBaRron1412/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/NightBaRron1412/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
