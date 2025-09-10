@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/NightBaRron1412/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NightBaRron1412/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/NightBaRron1412/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NightBaRron1412/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0564-find-the-closest-palindrome](https://github.com/NightBaRron1412/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/NightBaRron1412/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/NightBaRron1412/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/NightBaRron1412/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NightBaRron1412/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/NightBaRron1412/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NightBaRron1412/LeetCode/tree/master/1396-count-servers-that-communicate) |
