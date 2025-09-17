@@ -1,42 +1,43 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-
         // Get the length of the input string
         size_t n = s.size();
 
         // Two pointers: one starting from the left, one from the right
-        int p1 = 0;
-        int p2 = n - 1;
+        int left = 0;
+        int right = n - 1;
 
-        // Loop until the two pointers meet in the middle
-        while (p1 < p2)
+        // Continue until the two pointers meet
+        while (left < right)
         {
-            // Move the left pointer forward until it points to an alphanumeric character
-            while (p1 < p2 && !isalnum((unsigned char)s[p1]))
+            // Skip non-alphanumeric characters from the left
+            if (!isalnum(s[left]))
             {
-                p1++;
+                left++;
+                continue;
             }
 
-            // Move the right pointer backward until it points to an alphanumeric character
-            while (p1 < p2 && !isalnum((unsigned char)s[p2]))
+            // Skip non-alphanumeric characters from the right
+            if (!isalnum(s[right]))
             {
-                p2--;
+                right--;
+                continue;
             }
 
-            // Compare the two characters (case-insensitive).
-            // If they don't match, the string is not a palindrome
-            if (tolower((unsigned char)s[p1]) != tolower((unsigned char)s[p2]))
+            // Compare the lowercase version of the characters
+            // If they don't match, it's not a palindrome
+            if (tolower(s[left]) != tolower(s[right]))
             {
                 return false;
             }
 
-            // If they match, move both pointers closer to the center
-            p1++;
-            p2--;
+            // Move both pointers inward
+            left++;
+            right--;
         }
 
-        // If all pairs matched, the string is a palindrome
+        // If all valid characters matched, it's a palindrome
         return true;
     }
 };
