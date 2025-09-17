@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NightBaRron1412/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NightBaRron1412/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NightBaRron1412/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NightBaRron1412/LeetCode/tree/master/0054-spiral-matrix) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NightBaRron1412/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NightBaRron1412/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NightBaRron1412/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Queue
